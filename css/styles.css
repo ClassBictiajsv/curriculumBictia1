@@ -1,0 +1,11 @@
+.galeria_edu{
+    width:300px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+.general {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
