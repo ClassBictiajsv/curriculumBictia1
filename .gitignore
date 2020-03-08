@@ -1,2 +1,7 @@
 /.package-lock.json/*
 /node_modules/*
+
+# * Todos los archivos que tengan este nombre
+# o todos los elementos que contenga esa
+# carpeta seran ignorados.
+# No se subiran a github
